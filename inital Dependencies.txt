@@ -1,0 +1,5 @@
+npm install @react-native-async-storage/async-storage @react-navigation/native@^7.0.14 @react-navigation/stack@^7.1.1 @reduxjs/toolkit react-native-gesture-handler@^2.23.1 react-native-paper react-native-reanimated@^3.16.7 react-native-safe-area-context@^5.2.0 react-native-screens@^4.7.0 react-native-size-matters react-native-toast-message react-native-vector-icons react-redux
+
+npx @react-native-community/cli@15.0.1 init OptimizedApp --version 0.77.1
+
+npm install @react-native-firebase/app @react-native-firebase/auth @react-native-firebase/firestore @react-native-firebase/database @react-native-firebase/storage
